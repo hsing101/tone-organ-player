@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/lab1_template_de1soc/simulation/qsim
+vBasic_Organ_Solution
+Z1 !s110 1748320816
+!i10b 1
+!s100 iJ^_AK8BDG:zgIS_lMU7U0
+Ic2P>hlAGe>E=6K0?DaRB90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1748320814
+8Basic_Organ_Solution.vo
+FBasic_Organ_Solution.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1748320815.000000
+!s107 Basic_Organ_Solution.vo|
+!s90 -work|work|Basic_Organ_Solution.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@basic_@organ_@solution
+vBasic_Organ_Solution_vlg_vec_tst
+R1
+!i10b 1
+!s100 ^?hS2U?LmDg3CcKMHlTK=3
+IJHZ6lA=V4:fPSDaQMK:N<3
+R2
+R0
+w1748320812
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+!s108 1748320816.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R4
+R5
+n@basic_@organ_@solution_vlg_vec_tst
